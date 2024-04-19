@@ -7,6 +7,7 @@
 # -le -> lower or equal 
 # -a -> and 
 # -o -> or 
+# -n -> not empty
 
 a=11
 read -p "Enter a:" a
