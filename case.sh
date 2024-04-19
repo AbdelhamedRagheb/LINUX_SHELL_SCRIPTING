@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#you can use it if you have many if and the conditions is equal 
 read -p "Enter your age : " age 
 case $age in  # to start case 
     18)
