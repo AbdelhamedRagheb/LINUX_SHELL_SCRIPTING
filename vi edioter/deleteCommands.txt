@@ -1,0 +1,8 @@
+x -> delete current chracter 
+X -> delete char before current char 
+dd -> delete current Line 
+dG -> delete all line After current Line
+D -> delete all things after current char
+
+u -> to return back (undo)
+

@@ -1,0 +1,5 @@
+1. :wq -> save & quit 
+2. :w -> save 
+3. :q -> quit
+4. :w newfile -> copy file into newfile 
+5. :q! -> quit and not save any thing 

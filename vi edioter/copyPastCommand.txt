@@ -1,0 +1,4 @@
+:yy -> copy lines 
+:p -> past after the current line
+:P -> past before current line
+

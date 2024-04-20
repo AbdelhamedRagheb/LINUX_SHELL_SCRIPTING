@@ -1,0 +1,6 @@
+i -> to insert in insert mode.
+I -> to insert in current Line.
+a -> to insert after current chracter.
+A -> to insert in end of current line.
+o -> to insert in new line after current line.
+O -> to insert in new line before current line.

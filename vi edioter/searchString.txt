@@ -1,0 +1,4 @@
+Searching string there are two way :
+1.forward (/string) -> search from begin of file
+2.backward(?string) -> search from end of file 
+

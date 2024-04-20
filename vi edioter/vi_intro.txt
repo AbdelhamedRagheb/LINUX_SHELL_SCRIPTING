@@ -1,0 +1,9 @@
+test cat > file.txt command line 
+ctrl + D to exit 
+ther are two mode in vim :
+1 - command mode 
+2 - insert mode 
+to change from command to insert press (i)
+to change from insert to command press(esc)
+we can delete all line by using (dd)
+to save file press (shift + ; +  wq) 
